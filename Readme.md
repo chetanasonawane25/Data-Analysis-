@@ -1,7 +1,7 @@
 DON Concentration Prediction Using Spectral Data 📊
 
 
-A Python-based machine learning project to predict Dissolved Organic Nitrogen (DON) concentration from spectral data, featuring advanced preprocessing, visualization, and model evaluation.
+A Python-based machine learning project to predict DON concentration from spectral data, featuring advanced preprocessing, visualization, and model evaluation.
 
 🚀 Simulated DON Concentration
 
