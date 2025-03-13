@@ -33,8 +33,8 @@ Setup
 Get started with the DON Prediction project! Just follow these steps to set up and run the code:
 
 Clone the repository (if applicable):
-git clone <repository-url>
-cd <repository-name>
+git clone https://github.com/chetanasonawane25/Imago_AI_Tasks.git
+cd Imago_AI_Tasks
 
 
 Create a virtual environment (optional but recommended):
