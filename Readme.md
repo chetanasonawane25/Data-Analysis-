@@ -34,6 +34,7 @@ Get started with the DON Prediction project! Just follow these steps to set up a
 
 Clone the repository (if applicable):
 git clone https://github.com/chetanasonawane25/Imago_AI_Tasks.git
+
 cd Imago_AI_Tasks
 
 
